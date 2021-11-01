@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHardik1698&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KHardik1698&theme=highcontrast)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHardik1698&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/KHardik1698/count.svg) -->
