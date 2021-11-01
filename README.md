@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-#### I'm currently working on frameworks like Node.js, Express, ReactJS, Angular, etc.
+# Hardik Kundalia's ContentStack Profile
+![Profile Views](https://komarev.com/ghpvc/?username=KHardik1698&color=brightgreen&style=flat&label=Profile+Views)
+
+### Hi there 👋
+#### 🔭 I'm currently working on frameworks like Node.js, Express, ReactJS, Angular, etc.
+#### 🌱 I’m currently learning TypeScript.
 
 [![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHardik1698&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHardik1698&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=KHardik1698&color=brightgreen&style=flat&label=Profile+Views)
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/KHardik1698/count.svg) -->
