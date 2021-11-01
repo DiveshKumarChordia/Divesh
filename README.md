@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHardik1698&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
+
 <!-- ![Visitor Count](https://profile-counter.glitch.me/KHardik1698/count.svg) -->
