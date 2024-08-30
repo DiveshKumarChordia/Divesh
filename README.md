@@ -22,11 +22,16 @@ Here are some ideas to get you started:
 #### 🔭 I'm currently working on frameworks like Node.js, Express, ReactJS, Angular, etc.
 #### 🌱 I’m currently learning TypeScript.
 
-[![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHardik1698&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- github-readme-stats.vercel.app -->
+<!-- [![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHardik1698&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&rank_icon=default&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![Hardik's GitHub stats](https://github-readme-stats-wheat-mu.vercel.app/api?username=KHardik1698&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&rank_icon=default&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KHardik1698&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHardik1698&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHardik1698&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-wheat-mu.vercel.app/api/top-langs/?username=KHardik1698&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KHardik1698)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
 
