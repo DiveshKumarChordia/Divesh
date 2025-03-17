@@ -15,9 +15,8 @@
 
 ## 🔍 GitHub User ID  
 
-```html
 <form action="https://github-readme-stats.vercel.app/api" method="GET" target="_blank">
   <input type="text" id="username" name="username" placeholder="GitHub User ID" required>
   <button type="submit">Check</button>
 </form>
-```
+
