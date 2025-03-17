@@ -1,6 +1,3 @@
-Here’s your updated GitHub profile README with a simple input box asking for the GitHub User ID:  
-
-```md
 # Divesh Kumar Chordia's GitHub Profile  
 ![Profile Views](https://komarev.com/ghpvc/?username=DiveshKumarChordia&color=brightgreen&style=flat&label=Profile+Views)  
 
@@ -24,7 +21,3 @@ Here’s your updated GitHub profile README with a simple input box asking for t
   <button type="submit">Check</button>
 </form>
 ```
-
----
-
-Now, visitors can simply enter their GitHub User ID and check their stats. Let me know if you need any more changes! 🚀
