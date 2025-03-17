@@ -1,3 +1,6 @@
+Here’s your updated GitHub profile README with a simple input box asking for the GitHub User ID:  
+
+```md
 # Divesh Kumar Chordia's GitHub Profile  
 ![Profile Views](https://komarev.com/ghpvc/?username=DiveshKumarChordia&color=brightgreen&style=flat&label=Profile+Views)  
 
@@ -10,3 +13,18 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiveshKumarChordia&theme=highcontrast)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-stats-wheat-mu.vercel.app/api/top-langs/?username=DiveshKumarChordia&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🔍 GitHub User ID  
+
+```html
+<form action="https://github-readme-stats.vercel.app/api" method="GET" target="_blank">
+  <input type="text" id="username" name="username" placeholder="GitHub User ID" required>
+  <button type="submit">Check</button>
+</form>
+```
+
+---
+
+Now, visitors can simply enter their GitHub User ID and check their stats. Let me know if you need any more changes! 🚀
